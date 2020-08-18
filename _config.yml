@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Renato Vicente"
-  avatar           : "RV.jpg"
+  avatar           : "profile.png"
   bio              : "Associate Professor at the University of São Paulo"
   location         : "São Paulo, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://scholar.google.com.br/citations?user=DCDYWKQAAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "renatovicente"
   vine             :
   weibo            :
   xing             :
