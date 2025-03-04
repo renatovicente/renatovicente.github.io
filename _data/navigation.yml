@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+    #url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -17,11 +17,11 @@ main:
   - title: "Research"
     url: /research/
         
-  - title: "Media"
-    url: /media/
+  #- title: "Media"
+    #url: /media/
     
-  - title: "Books"
-    url: /books/
+  #- title: "Books"
+    #url: /books/
     
   - title: "CV"
     url: /cv/
