@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Work Experience
 ======
 * Since 2016: Associate Professor of Applied Mathematics
    Institute of Mathematics and Statistics, University of São Paulo
 
 * Since 2016: Chief Scientist
   Latin American Experian DataLab
-
+  
 * 2010-2016: Assistant Professor of Applied Mathematics
   Institute of Mathematics and Statistics, University of São Paulo
 
@@ -28,10 +28,12 @@ Work experience
 * 2001-2003: Quantitative Analyst
   Itaú Bank
 
-
 Education
 ======
 * PhD in Machine Learning, Neural Computing Research Grupo (NCRG), Aston University, 2001
+
 * MSc in Statistical Physics, University of São Paulo, 1997
+
 * BSc in Molecular Sciences, University of São Paulo, 1995
+
 * Telecommunications Technician, Federal Institute of São Paulo, 1989  
