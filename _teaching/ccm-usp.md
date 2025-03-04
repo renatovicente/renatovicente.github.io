@@ -2,6 +2,7 @@
 title: "Computação 3 . Computação 4 (Scientific Computing)"
 collection: teaching
 type: "Undergraduate Course"
+course_level: undergraduate
 permalink: /teaching/computacao-ccm
 venue: "CCM - Universidade de São Paulo"
 date: 2017-01-01

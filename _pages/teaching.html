@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-{% for post in site.teaching.undergrad reversed %}
+{% assign undergrad_courses = site.teaching | where: "course_level", "undergraduate" %}
+{% for post in undergrad_courses reversed %}
   {% include archive-single.html %}
 {% endfor %}
